@@ -1,3 +1,7 @@
+This was an experiment in restructuring simple_pusher so that I could write some tests.
+
+You shouldn't use this code -- use redsquirrel's instead!
+
 Example
 =======
 
